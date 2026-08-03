@@ -3,25 +3,27 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=3500&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=Full+Stack+Django+Developer;React+Developer;Next.js+Developer;Python+Developer;Blender+3D+Artist;Building+Beautiful+Digital+Experiences;Always+Learning+Something+New"/>
 </div>
+
+
 <p align="center">
 
-<a href="#-system-initialization">
+<a href="#system">
 <img src="https://img.shields.io/badge/System-161B22?style=for-the-badge&logo=windows-terminal&logoColor=00F5FF">
 </a>
 
-<a href="#-technical-arsenal">
+<a href="#skills">
 <img src="https://img.shields.io/badge/Skills-161B22?style=for-the-badge&logo=visualstudiocode&logoColor=00F5FF">
 </a>
 
-<a href="#-system-metrics">
+<a href="#stats">
 <img src="https://img.shields.io/badge/Stats-161B22?style=for-the-badge&logo=github&logoColor=00F5FF">
 </a>
 
-<a href="#-featured-modules">
+<a href="#projects">
 <img src="https://img.shields.io/badge/Projects-161B22?style=for-the-badge&logo=rocket&logoColor=00F5FF">
 </a>
 
-<a href="#-establish-connection">
+<a href="#contact">
 <img src="https://img.shields.io/badge/Contact-161B22?style=for-the-badge&logo=gmail&logoColor=00F5FF">
 </a>
 
@@ -29,6 +31,7 @@
 
 ---
 
+<a id="system"></a>
 ## ⚡ SYSTEM INITIALIZATION
 
 <table width="100%">
@@ -60,6 +63,7 @@ MISSION       : BUILDING MODERN WEB APPS
 </tr>
 </table>
 
+<a id="skills"></a>
 ## 🛠️ TECHNICAL ARSENAL
 
 <table width="70%">
@@ -163,6 +167,7 @@ MISSION       : BUILDING MODERN WEB APPS
 </tr>
 </table>
 
+<a id="stats"></a>
 ## 📊 SYSTEM METRICS
 
 <div align="center">
@@ -171,7 +176,8 @@ MISSION       : BUILDING MODERN WEB APPS
 
 ---
 
-<h2 align="center">🚀 FEATURED MODULES</h2>
+<a id="projects"></a>
+## 🚀 FEATURED MODULES
 
 <table width="100%">
 <tr>
@@ -237,6 +243,7 @@ A collection of cinematic renders, product visualization, environment art, and a
 </table>
 
 
+<a id="contact"></a>
 ## 📡 ESTABLISH CONNECTION
 
 <div align="center">
