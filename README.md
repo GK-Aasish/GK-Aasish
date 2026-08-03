@@ -150,16 +150,70 @@ MISSION       : BUILDING MODERN WEB APPS
 
 ---
 
-## 🚀 FEATURED MODULES (PROJECTS)
+<h2 align="center">🚀 FEATURED MODULES</h2>
 
-<!-- Replace these with your actual project links -->
-| Project | Tech Stack | Description | Link |
-| :--- | :--- | :--- | :---: |
-| **Project Name** | `Django` `React` | A high-performance web app doing X and Y. | [🚀](https://link.com) |
-| **3D Scene** | `Blender` | A photorealistic architectural visualization. | [🖼️](https://link.com) |
-| **SaaS App** | `Next.js` `Postgres` | A scalable solution for managing Z. | [🚀](https://link.com) |
+<table width="100%">
+<tr>
 
----
+<!-- Green Basket -->
+<td width="33%" align="center" valign="top">
+
+### 🌾 Green Basket
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,python,bootstrap,mysql,git&theme=dark" />
+</p>
+
+<p>
+A multi-vendor agricultural marketplace connecting farmers and customers with secure payments and vendor management.
+</p>
+
+<a href="YOUR_REPO_LINK">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-161B22?style=for-the-badge&logo=github&logoColor=00F5FF">
+</a>
+
+</td>
+
+<!-- Portfolio -->
+<td width="33%" align="center" valign="top">
+
+### 💼 Nexus Portfolio
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,html,css,js,bootstrap&theme=dark" />
+</p>
+
+<p>
+A futuristic portfolio showcasing full-stack development, 3D artwork, blogs, and testimonials.
+</p>
+
+<a href="YOUR_REPO_LINK">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-161B22?style=for-the-badge&logo=github&logoColor=00F5FF">
+</a>
+
+</td>
+
+<!-- 3D -->
+<td width="33%" align="center" valign="top">
+
+### 🎨 3D Showcase
+
+<p>
+<img src="https://skillicons.dev/icons?i=blender,ps,figma,ai&theme=dark" />
+</p>
+
+<p>
+A collection of cinematic renders, product visualization, environment art, and animation projects.
+</p>
+
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/View_Gallery-A855F7?style=for-the-badge&logo=blender&logoColor=white">
+</a>
+
+</td>
+
+</tr>
+</table>
 
 ## 📡 ESTABLISH CONNECTION
 
@@ -171,4 +225,8 @@ MISSION       : BUILDING MODERN WEB APPS
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00F5FF,100:161B22" />
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00F5FF,35:7B2FF7,70:FF00FF,100:161B22"/>
+
+</div>
