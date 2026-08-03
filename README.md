@@ -14,7 +14,7 @@ I am a Full-Stack Developer with a deep passion for **Python and Django**. I enj
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
   <br>
   <!-- Tools, Databases & Design -->
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,docker,git,blender,vscode" />
+  <img src="https://skillicons.dev/icons?i=github,git,blender,vscode" />
 </p>
 
 ---
@@ -29,7 +29,6 @@ I am a Full-Stack Developer with a deep passion for **Python and Django**. I enj
 ### 📫 How to reach me
 - 🌐 **Portfolio:** [aasishkarki.com.np](https://aasishkarki.com.np)
 - 📧 **Email:** [gk.aasishkarki@gmail.com](mailto:gk.aasishkarki@gmail.com)
-- 💼 **LinkedIn:** [Add your LinkedIn link here]
 
 ---
 
@@ -40,8 +39,4 @@ I play ⚽️ Football as a Goalkeeper 🧤. The focus, anticipation, and quick 
 
 <p align="center">
   <i>“Code is like humor. When you have to explain it, it’s bad.”</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GK-Aasish&label=Profile%20Views&color=0e75b6&style=flat" alt="GK-Aasish" />
 </p>
