@@ -1548,3 +1548,386 @@ Problem Solving
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
 
 </div>
+<!-- ========================================================= -->
+<!--     PART 5 — OPEN SOURCE • ROADMAP • ACHIEVEMENTS         -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+# 🌐 OPEN SOURCE JOURNEY
+
+### *Learning in public. Building for everyone. Giving back to the community.*
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="850"/>
+
+</div>
+
+---
+
+# 🚀 MISSION
+
+```text
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│  Build useful software                               │
+│  Share knowledge                                     │
+│  Help other developers                               │
+│  Keep learning                                       │
+│  Contribute consistently                             │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+```
+
+---
+
+# 🏆 ACHIEVEMENTS
+
+<div align="center">
+
+| Achievement | Progress |
+|:-----------|:--------:|
+| 🐍 Daily Coding | ✅ |
+| 🌱 Continuous Learning | ✅ |
+| 🛠 Full Stack Development | ✅ |
+| 🎨 Blender Projects | ✅ |
+| 📚 REST API Development | ✅ |
+| ⚡ Responsive Web Apps | ✅ |
+| 🗄 Database Design | ✅ |
+| 🔒 Authentication Systems | ✅ |
+| ☁ Docker Learning | 🚧 |
+| 🚀 Cloud Deployment | 🚧 |
+| 🤝 Open Source Contributions | 🚀 |
+
+</div>
+
+---
+
+# 🎖 MILESTONES
+
+```text
+2024  ██████████ Started Learning Python
+
+2025  ███████████████ Learned Django
+
+2025  ███████████████ Built REST APIs
+
+2025  ███████████████ React Development
+
+2026  █████████████████ Next.js
+
+2026  █████████████████ Blender Projects
+
+2026  █████████████████ PostgreSQL
+
+2026  █████████████████ Docker
+
+2027  █████████████████████ Cloud ☁
+
+2027  █████████████████████ Open Source ⭐
+```
+
+---
+
+# 🛣 LEARNING ROADMAP
+
+- [x] Python
+- [x] Git
+- [x] GitHub
+- [x] HTML
+- [x] CSS
+- [x] JavaScript
+- [x] Bootstrap
+- [x] Django
+- [x] Django REST Framework
+- [x] MySQL
+- [x] SQLite
+- [x] React
+- [x] Next.js Fundamentals
+- [x] Blender Basics
+- [ ] Docker
+- [ ] Docker Compose
+- [ ] PostgreSQL Optimization
+- [ ] Redis
+- [ ] Celery
+- [ ] Nginx
+- [ ] CI/CD Pipelines
+- [ ] AWS
+- [ ] Kubernetes
+- [ ] Microservices
+- [ ] System Design
+
+---
+
+<div align="center">
+
+# 🗺 LEARNING MAP
+
+</div>
+
+```mermaid
+flowchart TD
+
+Python --> Django
+
+Django --> DRF
+
+DRF --> PostgreSQL
+
+PostgreSQL --> Docker
+
+Docker --> Redis
+
+Redis --> Celery
+
+Celery --> Nginx
+
+Nginx --> AWS
+
+AWS --> Kubernetes
+
+Kubernetes --> SystemDesign
+
+SystemDesign --> OpenSource
+```
+
+---
+
+# 📖 CURRENT STUDY PLAN
+
+| Topic | Priority | Status |
+|--------|:--------:|:------:|
+| Django Internals | ⭐⭐⭐⭐⭐ | 🔄 |
+| React Performance | ⭐⭐⭐⭐ | 🔄 |
+| Next.js | ⭐⭐⭐⭐ | 🔄 |
+| Docker | ⭐⭐⭐⭐⭐ | 🚧 |
+| PostgreSQL | ⭐⭐⭐⭐ | 🚧 |
+| System Design | ⭐⭐⭐⭐⭐ | 📚 |
+| Cloud | ⭐⭐⭐⭐ | 📚 |
+| Algorithms | ⭐⭐⭐ | 📚 |
+
+---
+
+# 🧠 CODING PRINCIPLES
+
+```text
+✔ Readability over cleverness.
+
+✔ Consistency over shortcuts.
+
+✔ Small improvements every day.
+
+✔ Automate repetitive work.
+
+✔ Write code for humans first.
+
+✔ Simplicity scales.
+
+✔ Test what matters.
+
+✔ Documentation is part of development.
+```
+
+---
+
+# ⚙ DEVELOPMENT VALUES
+
+```yaml
+Clean Architecture:      ███████████████████
+
+Readable Code:           ████████████████████
+
+Scalable Design:         █████████████████░
+
+Performance:             ████████████████░░
+
+Maintainability:         ███████████████████
+
+Security:                █████████████████░
+
+Documentation:           █████████████████░
+
+Continuous Learning:     ████████████████████
+```
+
+---
+
+# 📅 WEEKLY ROUTINE
+
+```text
+Monday
+ ├── Backend Development
+ └── Django
+
+Tuesday
+ ├── React
+ └── APIs
+
+Wednesday
+ ├── Database
+ └── PostgreSQL
+
+Thursday
+ ├── Blender
+ └── UI Design
+
+Friday
+ ├── Open Source
+ └── Learning
+
+Saturday
+ ├── Personal Projects
+ └── Experiments
+
+Sunday
+ ├── Refactoring
+ └── Planning
+```
+
+---
+
+# 🖥 TERMINAL
+
+```bash
+$ developer --status
+
+Name          : Aasish Karki
+
+Focus         : Full Stack Development
+
+Backend       : Django
+
+Frontend      : React / Next.js
+
+Language      : Python
+
+Database      : PostgreSQL
+
+Design        : Blender
+
+Coffee        : Required ☕
+
+Mission       : Keep Building.
+```
+
+---
+
+<details>
+
+<summary>
+
+# 📚 CURRENT LEARNING NOTES
+
+</summary>
+
+### Backend
+
+- Advanced ORM
+- Query Optimization
+- Caching
+- Authentication
+
+---
+
+### Frontend
+
+- React Hooks
+- Server Components
+- Suspense
+- Performance
+
+---
+
+### DevOps
+
+- Docker Images
+- Compose
+- Containers
+- Deployment
+
+---
+
+### Databases
+
+- Indexes
+- Transactions
+- Query Planning
+- Optimization
+
+---
+
+### Architecture
+
+- Repository Pattern
+- Services
+- Clean Architecture
+- Event Driven Systems
+
+</details>
+
+---
+
+<details>
+
+<summary>
+
+# 🎯 2026 GOALS
+
+</summary>
+
+- Build 10 production-quality Django projects.
+
+- Master Docker.
+
+- Learn PostgreSQL deeply.
+
+- Contribute to Open Source every month.
+
+- Improve UI/UX design skills.
+
+- Create Blender product animations.
+
+- Learn AWS deployment.
+
+- Study system design.
+
+- Publish technical articles.
+
+- Help beginner developers.
+
+</details>
+
+---
+
+# 💬 DEVELOPER PHILOSOPHY
+
+> **Software should be elegant inside and delightful outside.**
+
+> **Every bug teaches something.**
+
+> **Learning compounds faster than talent.**
+
+> **Consistency beats motivation.**
+
+---
+
+<div align="center">
+
+## ⚡ BUILD • SHARE • IMPROVE • REPEAT
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
+
+</div>
