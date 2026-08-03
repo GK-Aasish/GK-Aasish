@@ -11,8 +11,38 @@
 </div>
 
 ---
+<div style="background:#0d1117; padding:25px; border-radius:12px;">
+
+<img align="right" width="480" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+# ⚡ SYSTEM INITIALIZATION
+
+```text
+████████████████████████████████████
+
+BOOTING CYBER TERMINAL...
+
+> Loading Profile...
+████████████████████████ 100%
+
+> Loading Skills...
+████████████████████████ 100%
+───────────────────────────────────
+
+SYSTEM STATUS : ONLINE
+
+USER          : AASISH KARKI
+ROLE          : FULL STACK DEVELOPER
+STACK         : DJANGO • REACT • NEXT.JS
+3D ENGINE     : BLENDER
+STATUS        : READY
+MISSION       : BUILDING MODERN WEB APPS
+
+████████████████████████████████████
+</div>
 
 ---
+
 # ABOUT
 
 ```yaml
