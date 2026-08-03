@@ -7,68 +7,89 @@
 </div>
 
 ---
-<h2>⚡ SYSTEM INITIALIZATION</h2>
+
+## ⚡ SYSTEM INITIALIZATION
 
 <table width="100%">
 <tr>
-
-<td width="62%" valign="top">
+<td width="60%" valign="top">
 
 <pre>
 ██████████████████████████████████████████████
 BOOTING CYBER TERMINAL...
 
-> Loading Profile...
-██████████████████████ 100%
+> Loading Profile... [OK]
+> Accessing Skillset... [OK]
+> Verifying Credentials... [OK]
 ──────────────────────────────────────────────
 SYSTEM STATUS : ONLINE
 USER          : AASISH KARKI
 ROLE          : FULL STACK DEVELOPER
 STACK         : DJANGO • REACT • NEXT.JS
 3D ENGINE     : BLENDER
-STATUS        : READY
 MISSION       : BUILDING MODERN WEB APPS
-
 ██████████████████████████████████████████████
 </pre>
-
 </td>
-
-<td width="38%" align="center" valign="top">
-
-<img
-src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
-width="100%"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=python,django,react,nextjs,postgres,docker,git"/>
-
+<td width="40%" align="center" valign="top">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%"/>
+<br>
+<img src="https://skillicons.dev/icons?i=python,django,react,nextjs,postgres,docker,git,tailwind,js,ts"/>
 </td>
-
 </tr>
 </table>
 
+---
+
+## 🛠️ TECHNICAL ARSENAL
+
 <div align="center">
 
+### 🌐 Web Development
+`Python` `Django` `React` `Next.js` `PostgreSQL` `REST API` `Tailwind CSS` `Docker`
 
-<div align="center">
+### 🎨 Creative Design
+`Blender 3D` `UI/UX Design` `Three.js (Learning)` `Figma`
 
-# 🛠️ SKILL MATRIX
+</div>
 
 | Technology | Proficiency | Level |
 |------------|-------------|------:|
-| Python | ████████████████████ | 95% |
-| Django | ████████████████████ | 95% |
-| REST API | ██████████████████░░ | 90% |
-| UI Design | █████████████████░░░ | 88% |
-| React | ████████████████░░░░ | 82% |
-| Blender | ███████████████░░░░░ | 80% |
-| Next.js | ██████████████░░░░░░ | 75% |
-| PostgreSQL | █████████████░░░░░░░ | 70% |
-| Docker | ███████████░░░░░░░░░ | 60% |
+| **Backend** (Python/Django) | ████████████████████ | 95% |
+| **Frontend** (React/Next) | ████████████████░░░░ | 82% |
+| **Database** (PostgreSQL) | █████████████░░░░░░░ | 70% |
+| **3D Art** (Blender) | ███████████████░░░░░░ | 80% |
+| **DevOps** (Docker/Git) | ███████████░░░░░░░░░ | 60% |
 
-</div>
 ---
 
+## 📊 SYSTEM METRICS
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Aasish's Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" />
 </div>
+
+---
+
+## 🚀 FEATURED MODULES (PROJECTS)
+
+<!-- Replace these with your actual project links -->
+| Project | Tech Stack | Description | Link |
+| :--- | :--- | :--- | :---: |
+| **Project Name** | `Django` `React` | A high-performance web app doing X and Y. | [🚀](https://link.com) |
+| **3D Scene** | `Blender` | A photorealistic architectural visualization. | [🖼️](https://link.com) |
+| **SaaS App** | `Next.js` `Postgres` | A scalable solution for managing Z. | [🚀](https://link.com) |
+
+---
+
+## 📡 ESTABLISH CONNECTION
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_USERNAME)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00F5FF,100:161B22" />
