@@ -1,217 +1,804 @@
-<!-- ========================= ANIMATED HERO HEADER ========================= -->
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=280&color=0:0D1117,50:003A47,100:005B41&text=AASISH%20KARKI&fontColor=00FF9D&fontSize=52&fontAlignY=38&animation=twinkle&desc=FULL%20STACK%20ARCHITECT%20%E2%80%A2%20BLENDER%203D%20ARTIST&descColor=00F2FE&descAlignY=58&descSize=18"/>
-</p>
+<!-- ========================================================= -->
+<!--                     CYBERPUNK README                       -->
+<!-- ========================================================= -->
 
-<!-- Live System Status Bar -->
-<p align="center">
-  <img src="https://img.shields.io/badge/SYSTEM_STATUS-ONLINE-0D1117?style=for-the-badge&logo=opsgenie&logoColor=00FF9D&borderColor=00FF9D"/>
-  <img src="https://img.shields.io/badge/LOCATION-NEPAL_🇳🇵-0D1117?style=for-the-badge&logo=googlemaps&logoColor=00F2FE&borderColor=00F2FE"/>
-  <img src="https://img.shields.io/badge/CURRENT_BUILD-DJANGO_%2B_NEXT.JS-0D1117?style=for-the-badge&logo=python&logoColor=00FF9D&borderColor=00FF9D"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=22&duration=2500&pause=1000&color=00FF9D&center=true&vCenter=true&width=900&lines=System.init(%22GK-Aasish%22);Full_Stack_Django_%26_Next.js_Architect;Python_Backend_Engine_Builder;Blender_3D_Asset_%26_Environment_Artist;First_solve_the_problem._Then_write_the_code." alt="Typing SVG" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:00F5FF,50:7B2FF7,100:161B22&text=AASISH%20KARKI&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20BLENDER%203D%20ARTIST&descAlignY=60"/>
 
-<!-- Quick Navigation Bar -->
-<p align="center">
-  <a href="#about-me"><img src="https://img.shields.io/badge/01__TERMINAL-0D1117?style=for-the-badge&logo=terminal&logoColor=00FF9D"/></a>
-  <a href="#tech-stack"><img src="https://img.shields.io/badge/02__TECH_CORE-0D1117?style=for-the-badge&logo=cpu&logoColor=00F2FE"/></a>
-  <a href="#projects"><img src="https://img.shields.io/badge/03__PROJECTS-0D1117?style=for-the-badge&logo=git&logoColor=00FF9D"/></a>
-  <a href="#blender-3d"><img src="https://img.shields.io/badge/04__3D_PIPELINE-0D1117?style=for-the-badge&logo=blender&logoColor=00F2FE"/></a>
-  <a href="#analytics"><img src="https://img.shields.io/badge/05__ANALYTICS-0D1117?style=for-the-badge&logo=datacamp&logoColor=00FF9D"/></a>
-  <a href="#connect"><img src="https://img.shields.io/badge/06__CONNECT-0D1117?style=for-the-badge&logo=signal&logoColor=00F2FE"/></a>
-</p>
+</div>
 
 ---
 
-<a name="about-me"></a>
-<!-- ========================= NATIVE INTERACTIVE TERMINAL ========================= -->
-<table align="center" width="100%">
+<div align="center">
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Welcome to My Digital Universe
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=3500&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=Full+Stack+Django+Developer;React+Developer;Next.js+Developer;Python+Developer;Blender+3D+Artist;Building+Beautiful+Digital+Experiences;Always+Learning+Something+New" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=GK-Aasish&style=for-the-badge&color=00F5FF"/>
+
+<img src="https://img.shields.io/github/followers/GK-Aasish?style=for-the-badge&color=7B2FF7&labelColor=161B22"/>
+
+<img src="https://img.shields.io/github/stars/GK-Aasish?style=for-the-badge&color=FF4D8D&labelColor=161B22"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-Lover-00FFC6?style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="850"/>
+
+</div>
+
+---
+
+# SYSTEM INITIALIZATION
+
+```text
+███████████████████████████████████████████
+
+BOOTING CYBER TERMINAL...
+
+Loading Profile...
+████████████████████████ 100%
+
+Loading Skills...
+████████████████████████ 100%
+
+Connecting GitHub...
+████████████████████████ 100%
+
+Connecting Blender...
+████████████████████████ 100%
+
+Building Future...
+████████████████████████ 100%
+
+SYSTEM STATUS
+
+ONLINE
+
+███████████████████████████████████████████
+```
+
+---
+
+<div align="center">
+
+## "Building elegant software one commit at a time."
+
+</div>
+
+---
+
+# WHOAMI
+
+```bash
+> whoami
+
+Name        : Aasish Karki
+
+Role        : Full Stack Developer
+
+Frontend    : React.js
+              Next.js
+
+Backend     : Django
+              Django REST Framework
+
+Language    : Python
+
+Database    : PostgreSQL
+              MySQL
+
+Cloud       : Learning...
+
+3D          : Blender
+
+Mission     : Build software that people enjoy using.
+
+Status      : Available for collaboration
+
+Version     : v2026.8
+```
+
+---
+
+<div align="center">
+
+<table>
+
 <tr>
-<td bgcolor="#0D1117" style="border: 1px solid #30363D; border-radius: 8px; padding: 18px;">
-<pre align="left"><code><font color="#00FF9D"><b>GK-Aasish@dev-terminal</b></font>:<font color="#00F2FE"><b>~</b></font>$ execute_diagnostics --verbose
-[<font color="#00FF9D">OK</font>] Initializing profile for <b>Aasish Karki</b>...
-[<font color="#00FF9D">OK</font>] Location confirmed: Nepal 🇳🇵
-[<font color="#00FF9D">OK</font>] Web Stack: Python | Django | React | Next.js | TypeScript | PostgreSQL
-[<font color="#00FF9D">OK</font>] Graphics Engine: Blender 3D (Hard Surface, Environment Modeling & Rendering)
-[<font color="#00FF9D">OK</font>] Primary Focus: System Design, Scalable Web Systems & Clean Code
-[<font color="#00FF9D">OK</font>] Auxiliary Role: Football Goalkeeper ⚽
-</code></pre>
 
-<!-- Interactive Dropdown Inside Terminal -->
-<details>
-<summary><font color="#00F2FE"><b>[+] CLICK TO EXPAND ADVANCED SYSTEM DIAGNOSTICS & LOGS</b></font></summary>
-<br>
-<pre align="left"><code><font color="#8B949E">
-{
-  "system_info": {
-    "os": "Linux / Windows Dev Environment",
-    "editor": "VS Code",
-    "version_control": "Git / GitHub",
-    "architecture_patterns": ["MVC", "REST APIs", "Microservices Concepts"]
-  },
-  "learning_queue": [
-    "Advanced Django Performance Optimization",
-    "High-Throughput System Architecture",
-    "3D Node-Based Shader Networks in Blender"
-  ]
-}
-</font></code></pre>
-</details>
+<td width="50%">
+
+# ABOUT
+
+```yaml
+name: Aasish Karki
+
+location: Nepal
+
+profession:
+
+- Full Stack Developer
+- Python Developer
+- Blender Artist
+
+currently_learning:
+
+- Docker
+- PostgreSQL
+- System Design
+- Next.js
+
+currently_building:
+
+- Django Applications
+- REST APIs
+- Interactive UI
+- 3D Experiences
+
+interests:
+
+- Open Source
+- UI Design
+- Architecture
+- Backend
+```
+
 </td>
+
+<td width="50%">
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%"/>
+
+</td>
+
 </tr>
+
 </table>
+
+</div>
 
 ---
 
-<a name="tech-stack"></a>
-<!-- ========================= TECH MATRIX WITH PROGRESS BARS ========================= -->
-<h2 align="center"><font color="#00FF9D">⚡ Engineering & Technology Core</font></h2>
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,react,nextjs,typescript,javascript,postgres,mongodb,docker,git,vscode,blender,tailwind,c,cs,linux,github" alt="Skill Icons" />
-</p>
+# CYBER STATUS
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" bgcolor="#0D1117" style="border: 1px solid #30363D; border-radius: 8px; padding: 12px;">
-      <h4><font color="#00F2FE">🐍 Backend Architecture</font></h4>
-      <b>Python / Django</b>
-      <br><img src="https://geps.dev/progress/90?dangerColor=00FF9D&warningColor=00FF9D&color=00FF9D" width="100%"/>
-      <br><b>REST APIs & Database Design</b>
-      <br><img src="https://geps.dev/progress/85?dangerColor=00F2FE&warningColor=00F2FE&color=00F2FE" width="100%"/>
-    </td>
-    <td width="50%" bgcolor="#0D1117" style="border: 1px solid #30363D; border-radius: 8px; padding: 12px;">
-      <h4><font color="#00F2FE">⚛️ Frontend Systems</font></h4>
-      <b>React.js / Next.js</b>
-      <br><img src="https://geps.dev/progress/85?dangerColor=00FF9D&warningColor=00FF9D&color=00FF9D" width="100%"/>
-      <br><b>TypeScript & Tailwind CSS</b>
-      <br><img src="https://geps.dev/progress/80?dangerColor=00F2FE&warningColor=00F2FE&color=00F2FE" width="100%"/>
-    </td>
-  </tr>
-</table>
+</div>
 
----
+<table>
 
-<a name="projects"></a>
-<!-- ========================= FEATURED PROJECTS ========================= -->
-<h2 align="center"><font color="#00FF9D">🛠️ Featured System Architecture</font></h2>
-
-<table align="center" width="100%">
-  <tr>
-    <td width="33%" bgcolor="#0D1117" align="center" style="border: 1px solid #30363D; border-radius: 8px; padding: 15px;">
-      <h3><font color="#00F2FE">🌾 Green Basket</font></h3>
-      <p><font color="#C9D1D9">Agriculture Marketplace engineered using Django, PostgreSQL, and structured data flow.</font></p>
-      <a href="https://github.com/GK-Aasish/green-basket">
-        <img src="https://img.shields.io/badge/REPO_LINK-0D1117?style=for-the-badge&logo=github&logoColor=00FF9D&borderColor=00FF9D"/>
-      </a>
-    </td>
-    <td width="33%" bgcolor="#0D1117" align="center" style="border: 1px solid #30363D; border-radius: 8px; padding: 15px;">
-      <h3><font color="#00F2FE">🌐 Portfolio</font></h3>
-      <p><font color="#C9D1D9">Full-stack web experience highlighting web software & 3D Blender asset artwork.</font></p>
-      <a href="https://github.com/GK-Aasish/portfolio">
-        <img src="https://img.shields.io/badge/REPO_LINK-0D1117?style=for-the-badge&logo=github&logoColor=00F2FE&borderColor=00F2FE"/>
-      </a>
-    </td>
-    <td width="33%" bgcolor="#0D1117" align="center" style="border: 1px solid #30363D; border-radius: 8px; padding: 15px;">
-      <h3><font color="#00F2FE">🏫 Student System</font></h3>
-      <p><font color="#C9D1D9">Academic results management engine built with clean relational database schema.</font></p>
-      <a href="https://github.com/GK-Aasish/student-result-system">
-        <img src="https://img.shields.io/badge/REPO_LINK-0D1117?style=for-the-badge&logo=github&logoColor=00FF9D&borderColor=00FF9D"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-<a name="blender-3d"></a>
-<!-- ========================= CREATIVE 3D PIPELINE SHOWCASE ========================= -->
-<h2 align="center"><font color="#00FF9D">🎨 Creative Engine: Blender 3D Graphics</font></h2>
-
-<table align="center" width="100%">
 <tr>
-<td bgcolor="#0D1117" style="border: 1px solid #30363D; border-radius: 8px; padding: 15px;">
-<p align="center">
-  <b>Beyond coding, I sculpt, texture, and render 3D assets and environments in Blender.</b>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/PIPELINE-HARD_SURFACE_MODELING-0D1117?style=for-the-badge&logo=blender&logoColor=00FF9D&borderColor=00FF9D"/>
-  <img src="https://img.shields.io/badge/RENDER_ENGINE-CYCLES_%2B_EEVEE-0D1117?style=for-the-badge&logo=blender&logoColor=00F2FE&borderColor=00F2FE"/>
-</p>
+
+<td>
+
+⚡ Backend
+
+███████████████████░ 95%
+
 </td>
+
+<td>
+
+🎨 UI
+
+████████████████░░░ 88%
+
+</td>
+
 </tr>
+
+<tr>
+
+<td>
+
+⚛ React
+
+███████████████░░░░ 82%
+
+</td>
+
+<td>
+
+🐍 Python
+
+██████████████████░ 92%
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+🟩 Django
+
+███████████████████ 95%
+
+</td>
+
+<td>
+
+🎥 Blender
+
+██████████████░░░░░ 80%
+
+</td>
+
+</tr>
+
 </table>
 
 ---
 
-<a name="analytics"></a>
-<!-- ========================= ANIMATED ANALYTICS & ACTIVITY WAVE ========================= -->
-<h2 align="center"><font color="#00FF9D">📊 Real-Time Analytics & Activity Wave</font></h2>
+<div align="center">
 
-<!-- Live Animated Commit Wave Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GK-Aasish&theme=react-dark&bg_color=0d1117&color=00ff9d&line=00f2fe&point=00ff9d&area=true&hide_border=true" width="100%" alt="Activity Wave Graph"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
-<p align="center">
-  <a href="https://github.com/GK-Aasish">
-    <img src="https://github-readme-stats.vercel.app/api?username=GK-Aasish&show_icons=true&bg_color=0D1117&title_color=00FF9D&icon_color=00F2FE&text_color=C9D1D9&border_color=30363D&count_private=true&include_all_commits=true" width="48%" alt="Stats"/>
-  </a>
-  <a href="https://github.com/GK-Aasish">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GK-Aasish&background=0D1117&border=30363D&stroke=00F2FE&ring=00FF9D&fire=00FF9D&currStreakLabel=00F2FE&numbers=C9D1D9&dates=8B949E" width="48%" alt="Streak"/>
-  </a>
-</p>
+</div>
 
-<p align="center">
-  <a href="https://github.com/GK-Aasish">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GK-Aasish&layout=compact&bg_color=0D1117&title_color=00FF9D&text_color=C9D1D9&border_color=30363D&card_width=400" alt="Top Languages"/>
-  </a>
-</p>
+# CURRENT MISSION
+
+<table>
+
+<tr>
+
+<td>
+
+✔ Building production Django applications
+
+</td>
+
+<td>
+
+✔ Learning advanced React
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+✔ Exploring Docker
+
+</td>
+
+<td>
+
+✔ Improving UI Design
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+✔ PostgreSQL
+
+</td>
+
+<td>
+
+✔ Blender Animations
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-<!-- ========================= ANIMATED MATRIX SNAKE ========================= -->
-<h2 align="center"><font color="#00FF9D">🐍 Matrix Contribution Snake</font></h2>
+# DAILY WORKFLOW
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/GK-Aasish/GK-Aasish/output/github-contribution-grid-snake.svg?color_snake=00FF9D&color_dots=#161b22,#0e2a1f,#005b41,#00b36b,#00ff9d" width="100%" alt="Contribution Snake"/>
-</p>
+```text
+          PLAN
+            │
+            ▼
+      DESIGN UI
+            │
+            ▼
+   BUILD BACKEND
+            │
+            ▼
+ CONNECT FRONTEND
+            │
+            ▼
+      TEST APP
+            │
+            ▼
+       DEPLOY
+            │
+            ▼
+     IMPROVE AGAIN
+```
 
 ---
 
-<!-- ========================= EXPANDABLE DEV QUOTE ========================= -->
-<p align="center">
+# DEVELOPMENT PRINCIPLES
+
+> Build clean.
+
+> Build scalable.
+
+> Build beautiful.
+
+> Never stop learning.
+
+> Simplicity beats complexity.
+
+> User Experience comes first.
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
+
+</div>
+<!-- ========================================================= -->
+<!--                PART 2 — TECH STACK & ARCHITECTURE         -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+# ⚡ TECH ARSENAL
+
+### Carefully chosen technologies for building fast, scalable, and beautiful applications.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# LANGUAGES
+
+<p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+# FRONTEND
+
+<p>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Responsive%20Design-00F5FF?style=for-the-badge"/>
+
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+# BACKEND
+
+<p>
+
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django"/>
+
+<img src="https://img.shields.io/badge/Django_REST_Framework-ff1709?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/REST_API-00FFC6?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Authentication-7B2FF7?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge"/>
+
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+# DATABASES
+
+<p>
+
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
+
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite"/>
+
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+# DEVOPS & CLOUD
+
+<p>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/CI/CD-00F5FF?style=for-the-badge"/>
+
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+# DESIGN
+
+<p>
+
+<img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender"/>
+
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma"/>
+
+<img src="https://img.shields.io/badge/UI/UX-7B2FF7?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Glassmorphism-00FFC6?style=for-the-badge"/>
+
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+# FAVORITE TOOLS
+
+| IDE | API | Browser | Terminal |
+|:---:|:---:|:---:|:---:|
+| VS Code | Postman | Firefox | PowerShell |
+
+</div>
+
+---
+
+<div align="center">
+
+# SKILL MATRIX
+
+</div>
+
+| Technology | Level |
+|------------|-------|
+| Python | ████████████████████ 95% |
+| Django | ████████████████████ 95% |
+| REST API | ██████████████████░ 90% |
+| React | ████████████████░░░ 82% |
+| Next.js | ██████████████░░░░░ 75% |
+| PostgreSQL | █████████████░░░░░░ 70% |
+| Docker | ███████████░░░░░░░░ 60% |
+| Blender | ███████████████░░░░ 80% |
+| UI Design | █████████████████░░ 88% |
+
+---
+
+<div align="center">
+
+# DEVELOPMENT ECOSYSTEM
+
+</div>
+
+```mermaid
+flowchart LR
+
+A[Idea]
+
+A --> B[Research]
+
+B --> C[UI Design]
+
+C --> D[React / Next.js]
+
+D --> E[Django]
+
+E --> F[REST API]
+
+F --> G[PostgreSQL]
+
+G --> H[Docker]
+
+H --> I[Deployment]
+
+I --> J[Users]
+
+J --> K[Feedback]
+
+K --> A
+```
+
+---
+
+<div align="center">
+
+# FULL STACK ARCHITECTURE
+
+</div>
+
+```mermaid
+graph TD
+
+Client
+
+Browser
+
+React
+
+NextJS
+
+API
+
+Django
+
+DRF
+
+Authentication
+
+Database
+
+PostgreSQL
+
+MySQL
+
+Docker
+
+Deployment
+
+Browser --> React
+
+React --> NextJS
+
+NextJS --> API
+
+API --> Django
+
+Django --> Authentication
+
+Authentication --> PostgreSQL
+
+Authentication --> MySQL
+
+Django --> Docker
+
+Docker --> Deployment
+```
+
+---
+
+<div align="center">
+
+# GIT WORKFLOW
+
+</div>
+
+```mermaid
+gitGraph
+
+commit
+
+branch develop
+
+checkout develop
+
+commit
+
+commit
+
+branch feature-auth
+
+checkout feature-auth
+
+commit
+
+commit
+
+checkout develop
+
+merge feature-auth
+
+branch feature-dashboard
+
+checkout feature-dashboard
+
+commit
+
+commit
+
+checkout develop
+
+merge feature-dashboard
+
+checkout main
+
+merge develop
+```
+
+---
+
+<div align="center">
+
+# LEARNING ROADMAP
+
+</div>
+
+```mermaid
+flowchart TD
+
+Python --> Django
+
+Django --> REST
+
+REST --> React
+
+React --> NextJS
+
+NextJS --> Docker
+
+Docker --> PostgreSQL
+
+PostgreSQL --> Redis
+
+Redis --> Celery
+
+Celery --> Kubernetes
+
+Kubernetes --> AWS
+
+AWS --> SystemDesign
+```
+
+---
+
 <details>
-<summary><font color="#00F2FE"><b>💭 CLICK TO VIEW DEVELOPER PHILOSOPHY</b></font></summary>
-<br>
-<blockquote align="center">
-  <b>"First, solve the problem. Then, write the code."</b> — <i>John Johnson</i>
-</blockquote>
+
+<summary>
+
+## CURRENTLY LEARNING
+
+</summary>
+
+### Backend
+
+- Docker
+- Advanced Django
+- PostgreSQL Optimization
+
+### Frontend
+
+- Advanced React
+- Next.js App Router
+- Performance Optimization
+
+### Architecture
+
+- Microservices
+- Caching
+- System Design
+
+### DevOps
+
+- Docker Compose
+- GitHub Actions
+- CI/CD
+
 </details>
-</p>
 
 ---
 
-<a name="connect"></a>
-<!-- ========================= CONNECT & ANIMATED FOOTER ========================= -->
-<h2 align="center"><font color="#00FF9D">📫 Establish Connection</font></h2>
+<details>
 
-<p align="center">
-  <a href="mailto:gk.aasishkarki@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&borderColor=00FF9D"/>
-  </a>
-  <a href="https://github.com/GK-Aasish">
-    <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00FF9D&borderColor=00FF9D"/>
-  </a>
-</p>
+<summary>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GK-Aasish&style=plastic&color=00FF9D" alt="Visitor Counter"/>
-</p>
+## PRODUCTIVITY TOOLKIT
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:003A47,100:0D1117"/>
-</p>
+</summary>
+
+| Category | Tools |
+|-----------|------|
+| Editor | VS Code |
+| Database | MySQL Workbench |
+| API | Postman |
+| Design | Blender |
+| Version Control | Git |
+| Browser | Firefox |
+| Notes | Obsidian |
+
+</details>
+
+---
+
+<div align="center">
+
+# CYBERPUNK CHECKLIST
+
+</div>
+
+- ✅ Clean Code
+- ✅ Responsive Design
+- ✅ RESTful APIs
+- ✅ Authentication
+- ✅ Database Design
+- ✅ Reusable Components
+- ✅ Scalable Architecture
+- ✅ Version Control
+- ✅ Continuous Learning
+- 🔄 Exploring Docker
+- 🔄 System Design
+- 🔄 Cloud Deployment
+
+---
+
+<div align="center">
+
+> "Great software isn't written once—it evolves with every commit."
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
+
+</div>
