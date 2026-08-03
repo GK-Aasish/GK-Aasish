@@ -1,22 +1,8 @@
-<!-- ========================================================= -->
-<!--                     CYBERPUNK README                       -->
-<!-- ========================================================= -->
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:00F5FF,50:7B2FF7,100:161B22&text=AASISH%20KARKI&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20BLENDER%203D%20ARTIST&descAlignY=60"/>
 
 </div>
-
----
-
-<div align="center">
-
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Welcome to My Digital Universe
-
-</div>
-
----
 
 <div align="center">
 
