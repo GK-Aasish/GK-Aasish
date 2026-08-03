@@ -62,57 +62,7 @@ ONLINE
 
 ███████████████████████████████████████████
 ```
-
 ---
-
-<div align="center">
-
-## "Building elegant software one commit at a time."
-
-</div>
-
----
-
-# WHOAMI
-
-```bash
-> whoami
-
-Name        : Aasish Karki
-
-Role        : Full Stack Developer
-
-Frontend    : React.js
-              Next.js
-
-Backend     : Django
-              Django REST Framework
-
-Language    : Python
-
-Database    : PostgreSQL
-              MySQL
-
-Cloud       : Learning...
-
-3D          : Blender
-
-Mission     : Build software that people enjoy using.
-
-Status      : Available for collaboration
-
-Version     : v2026.8
-```
-
----
-
-<div align="center">
-
-<table>
-
-<tr>
-
-<td width="50%">
 
 # ABOUT
 
