@@ -67,12 +67,10 @@ MISSION       : BUILDING MODERN WEB APPS
 ## 🛠️ TECHNICAL ARSENAL
 
 <table>
-<tr width="100%">
-
 <!-- ================= WEB DEVELOPMENT ================= -->
-<td width="45%" valign="top">
+<tr width="45%" valign="top">
 
-<h3 align="center">🌐 Web Development</h3>
+<h3>🌐 Web Development</h3>
 
 <table width="100%">
 
@@ -81,7 +79,8 @@ MISSION       : BUILDING MODERN WEB APPS
 <img src="https://skillicons.dev/icons?i=python&theme=dark" width="40">
 </td>
 <td>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=0&repeat=true&color=00F5FF&width=440&lines=██████████████████+95%25">
+<img
+src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=0&repeat=true&color=00F5FF&width=440&lines=██████████████████+95%25">
 </td>
 </tr>
 
@@ -90,7 +89,8 @@ MISSION       : BUILDING MODERN WEB APPS
 <img src="https://skillicons.dev/icons?i=django&theme=dark" width="40">
 </td>
 <td>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=0&repeat=true&color=00F5FF&width=440&lines=█████████████████+92%25">
+<img
+src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=0&repeat=true&color=00F5FF&width=440&lines=█████████████████+92%25">
 </td>
 </tr>
 
@@ -99,7 +99,8 @@ MISSION       : BUILDING MODERN WEB APPS
 <img src="https://skillicons.dev/icons?i=react&theme=dark" width="40">
 </td>
 <td>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=0&repeat=true&color=00F5FF&width=440&lines=████████████████+85%25">
+<img
+src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=0&repeat=true&color=00F5FF&width=440&lines=████████████████+85%25">
 </td>
 </tr>
 
@@ -108,7 +109,8 @@ MISSION       : BUILDING MODERN WEB APPS
 <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="40">
 </td>
 <td>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=0&repeat=true&color=00F5FF&width=440&lines=███████████████+80%25">
+<img
+src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=0&repeat=true&color=00F5FF&width=440&lines=███████████████+80%25">
 </td>
 </tr>
 
@@ -117,19 +119,20 @@ MISSION       : BUILDING MODERN WEB APPS
 <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="40">
 </td>
 <td>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=0&repeat=true&color=00F5FF&width=440&lines=█████████████████+90%25">
+<img
+src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=0&repeat=true&color=00F5FF&width=440&lines=█████████████████+90%25">
 </td>
 </tr>
 
 </table>
 
-</td>
+</tr>
 
 <!-- ================= CREATIVE DESIGN ================= -->
 
-<td width="45%" valign="top">
+<tr width="45%" valign="top">
 
-<h3 align="center">🎨 Creative Design</h3>
+<h3>🎨 Creative Design</h3>
 
 <table width="100%">
 
@@ -138,7 +141,8 @@ MISSION       : BUILDING MODERN WEB APPS
 <img src="https://skillicons.dev/icons?i=blender&theme=dark" width="40">
 </td>
 <td>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=0&repeat=true&color=A855F7&width=440&lines=█████████████████+90%25">
+<img
+src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=0&repeat=true&color=A855F7&width=440&lines=█████████████████+90%25">
 </td>
 </tr>
 
@@ -147,7 +151,8 @@ MISSION       : BUILDING MODERN WEB APPS
 <img src="https://cdn.simpleicons.org/canva/A855F7" width="40" alt="Canva">
 </td>
 <td>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=0&repeat=true&color=A855F7&width=440&lines=███████████████+82%25">
+<img
+src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=0&repeat=true&color=A855F7&width=440&lines=███████████████+82%25">
 </td>
 </tr>
 
@@ -156,16 +161,16 @@ MISSION       : BUILDING MODERN WEB APPS
 <img src="https://skillicons.dev/icons?i=ps&theme=dark" width="40">
 </td>
 <td>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=0&repeat=true&color=A855F7&width=440&lines=███████████████+80%25">
+<img
+src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=0&repeat=true&color=A855F7&width=440&lines=███████████████+80%25">
 </td>
 </tr>
 
 </table>
 
-</td>
-
 </tr>
 </table>
+
 
 <a id="stats"></a>
 ## 📊 SYSTEM METRICS
