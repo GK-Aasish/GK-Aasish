@@ -39,29 +39,108 @@ MISSION       : BUILDING MODERN WEB APPS
 </tr>
 </table>
 
----
-
 ## 🛠️ TECHNICAL ARSENAL
 
-<div align="center">
+<table width="100%">
+<tr>
 
-### 🌐 Web Development
-`Python` `Django` `React` `Next.js` `PostgreSQL` `REST API` `Tailwind CSS` `Docker`
+<!-- ================= WEB DEVELOPMENT ================= -->
+<td width="50%" valign="top">
 
-### 🎨 Creative Design
-`Blender 3D` `UI/UX Design` `Three.js (Learning)` `Figma`
+<h3 align="center">🌐 Web Development</h3>
 
-</div>
+<table width="100%">
 
-| Technology | Proficiency | Level |
-|------------|-------------|------:|
-| **Backend** (Python/Django) | ████████████████████ | 95% |
-| **Frontend** (React/Next) | ████████████████░░░░ | 82% |
-| **Database** (PostgreSQL) | █████████████░░░░░░░ | 70% |
-| **3D Art** (Blender) | ███████████████░░░░░░ | 80% |
-| **DevOps** (Docker/Git) | ███████████░░░░░░░░░ | 60% |
+<tr>
+<td width="60" align="center">
+<img src="https://skillicons.dev/icons?i=python&theme=dark" width="40">
+</td>
+<td>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=0&repeat=true&color=00F5FF&width=440&lines=██████████████████+95%25">
+</td>
+</tr>
 
----
+<tr>
+<td width="60" align="center">
+<img src="https://skillicons.dev/icons?i=django&theme=dark" width="40">
+</td>
+<td>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=0&repeat=true&color=00F5FF&width=440&lines=█████████████████+92%25">
+</td>
+</tr>
+
+<tr>
+<td width="60" align="center">
+<img src="https://skillicons.dev/icons?i=react&theme=dark" width="40">
+</td>
+<td>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=0&repeat=true&color=00F5FF&width=440&lines=████████████████+85%25">
+</td>
+</tr>
+
+<tr>
+<td width="60" align="center">
+<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="40">
+</td>
+<td>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=0&repeat=true&color=00F5FF&width=440&lines=███████████████+80%25">
+</td>
+</tr>
+
+<tr>
+<td width="60" align="center">
+<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="40">
+</td>
+<td>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=0&repeat=true&color=00F5FF&width=440&lines=█████████████████+90%25">
+</td>
+</tr>
+
+</table>
+
+</td>
+
+<!-- ================= CREATIVE DESIGN ================= -->
+
+<td width="50%" valign="top">
+
+<h3 align="center">🎨 Creative Design</h3>
+
+<table width="100%">
+
+<tr>
+<td width="60" align="center">
+<img src="https://skillicons.dev/icons?i=blender&theme=dark" width="40">
+</td>
+<td>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=0&repeat=true&color=A855F7&width=440&lines=█████████████████+90%25">
+</td>
+</tr>
+
+<tr>
+<td width="60" align="center">
+<img src="https://cdn.simpleicons.org/canva/A855F7" width="40" alt="Canva">
+</td>
+<td>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=0&repeat=true&color=A855F7&width=440&lines=███████████████+82%25">
+</td>
+</tr>
+
+<tr>
+<td width="60" align="center">
+<img src="https://skillicons.dev/icons?i=ps&theme=dark" width="40">
+</td>
+<td>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=0&repeat=true&color=A855F7&width=440&lines=███████████████+80%25">
+</td>
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+</table>
 
 ## 📊 SYSTEM METRICS
 <div align="center">
