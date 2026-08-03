@@ -11,9 +11,10 @@
 </div>
 
 ---
+
 <div style="background:#0d1117; padding:25px; border-radius:12px;">
 
-<img align="right" width="480" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" width="450" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 # ⚡ SYSTEM INITIALIZATION
 
@@ -27,6 +28,7 @@ BOOTING CYBER TERMINAL...
 
 > Loading Skills...
 ████████████████████████ 100%
+
 ───────────────────────────────────
 
 SYSTEM STATUS : ONLINE
@@ -39,153 +41,3 @@ STATUS        : READY
 MISSION       : BUILDING MODERN WEB APPS
 
 ████████████████████████████████████
-</div>
-
----
-
-# ABOUT
-
-```yaml
-name: Aasish Karki
-
-location: Nepal
-
-profession:
-
-- Full Stack Developer
-- Python Developer
-- Blender Artist 
-
-currently_learning:
-
-- Docker
-- PostgreSQL
-- System Design
-- Next.js
-
-currently_building:
-
-- Django Applications
-- REST APIs
-- Interactive UI
-- 3D Experiences
-
-interests:
-
-- Open Source
-- UI Design
-- Architecture
-- Backend
-```
-
-</td>
-
-<td width="50%">
-
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%"/>
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-# CYBER STATUS
-
-</div>
-
-<table>
-
-<tr>
-
-<td>
-
-⚡ Backend
-
-███████████████████░ 95%
-
-</td>
-
-<td>
-
-🎨 UI
-
-████████████████░░░ 88%
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-⚛ React
-
-███████████████░░░░ 82%
-
-</td>
-
-<td>
-
-🐍 Python
-
-██████████████████░ 92%
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-🟩 Django
-
-███████████████████ 95%
-
-</td>
-
-<td>
-
-🎥 Blender
-
-██████████████░░░░░ 80%
-
-</td>
-
-</tr>
-
-</table>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
-
-</div>
-
----
-
-<div align="center">
-
-# SKILL MATRIX
-
-</div>
-
-| Technology | Level |
-|------------|-------|
-| Python | ████████████████████ 95% |
-| Django | ████████████████████ 95% |
-| REST API | ██████████████████░ 90% |
-| React | ████████████████░░░ 82% |
-| Next.js | ██████████████░░░░░ 75% |
-| PostgreSQL | █████████████░░░░░░ 70% |
-| Docker | ███████████░░░░░░░░ 60% |
-| Blender | ███████████████░░░░ 80% |
-| UI Design | █████████████████░░ 88% |
