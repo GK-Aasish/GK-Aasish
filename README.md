@@ -236,7 +236,6 @@ A collection of cinematic renders, product visualization, environment art, and a
 </tr>
 </table>
 
----
 
 ## 📡 ESTABLISH CONNECTION
 
@@ -244,7 +243,7 @@ A collection of cinematic renders, product visualization, environment art, and a
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3500&pause=1000&color=00F5FF&center=true&width=700&lines=Open+for+Freelance;Let's+Build+Something+Awesome;Feel+Free+to+Reach+Out"/>
 
-<br><br>
+<br>
 
 <a href="https://github.com/YOUR_USERNAME">
 <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white">
@@ -266,8 +265,21 @@ A collection of cinematic renders, product visualization, environment art, and a
 
 ---
 
+```bash
+while(alive){
+    learn();
+    build();
+    improve();
+    repeat();
+}
+```
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00F5FF,35:7B2FF7,70:FF00FF,100:161B22"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=4000&pause=1000&color=00F5FF&center=true&width=800&lines=Thanks+for+Visiting!;Happy+Coding!;See+You+Again!"/>
+
+<br>
+
+<img width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:00F5FF,35:7B2FF7,70:FF00FF,100:161B22"/>
 
 </div>
