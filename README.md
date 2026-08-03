@@ -66,11 +66,11 @@ MISSION       : BUILDING MODERN WEB APPS
 <a id="skills"></a>
 ## 🛠️ TECHNICAL ARSENAL
 
-<table width="60%">
-<tr>
+<table>
+<tr width="100%">
 
 <!-- ================= WEB DEVELOPMENT ================= -->
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
 <h3 align="center">🌐 Web Development</h3>
 
@@ -127,7 +127,7 @@ MISSION       : BUILDING MODERN WEB APPS
 
 <!-- ================= CREATIVE DESIGN ================= -->
 
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
 <h3 align="center">🎨 Creative Design</h3>
 
