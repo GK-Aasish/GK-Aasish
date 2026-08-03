@@ -185,110 +185,11 @@ interests:
 
 </table>
 
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
 </div>
-
-# CURRENT MISSION
-
-<table>
-
-<tr>
-
-<td>
-
-✔ Building production Django applications
-
-</td>
-
-<td>
-
-✔ Learning advanced React
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-✔ Exploring Docker
-
-</td>
-
-<td>
-
-✔ Improving UI Design
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-✔ PostgreSQL
-
-</td>
-
-<td>
-
-✔ Blender Animations
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# DAILY WORKFLOW
-
-```text
-          PLAN
-            │
-            ▼
-      DESIGN UI
-            │
-            ▼
-   BUILD BACKEND
-            │
-            ▼
- CONNECT FRONTEND
-            │
-            ▼
-      TEST APP
-            │
-            ▼
-       DEPLOY
-            │
-            ▼
-     IMPROVE AGAIN
-```
-
----
-
-# DEVELOPMENT PRINCIPLES
-
-> Build clean.
-
-> Build scalable.
-
-> Build beautiful.
-
-> Never stop learning.
-
-> Simplicity beats complexity.
-
-> User Experience comes first.
-
 ---
 
 <div align="center">
@@ -433,18 +334,6 @@ interests:
 <img src="https://img.shields.io/badge/Glassmorphism-00FFC6?style=for-the-badge"/>
 
 </p>
-
-</div>
-
----
-
-<div align="center">
-
-# FAVORITE TOOLS
-
-| IDE | API | Browser | Terminal |
-|:---:|:---:|:---:|:---:|
-| VS Code | Postman | Firefox | PowerShell |
 
 </div>
 
