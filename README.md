@@ -41,3 +41,29 @@ STATUS        : READY
 MISSION       : BUILDING MODERN WEB APPS
 
 ████████████████████████████████████
+
+name: Aasish Karki
+location: Nepal
+profession:
+  - Full Stack Developer
+  - Python Developer
+  - Blender 3D Artist
+
+currently_learning:
+  - Docker
+  - PostgreSQL
+  - System Design
+  - Next.js
+
+currently_building:
+  - Django Applications
+  - REST APIs
+  - Interactive UI
+  - 3D Experiences
+
+interests:
+  - Open Source
+  - UI Design
+  - Architecture
+  - Backend
+
