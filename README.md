@@ -74,14 +74,8 @@
 # 📊 GitHub Dashboard
 <p align="center">
   <a href="https://github.com/GK-Aasish">
-    <img src="https://github-readme-stats.vercel.app/api?username=GK-Aasish&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats"/>
-  </a>
-  <a href="https://github.com/GK-Aasish">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=GK-Aasish&theme=tokyonight&hide_border=true" alt="Streak"/>
   </a>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GK-Aasish&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -110,7 +104,7 @@
 
 ---
 <p align="center">
-  > <b>"First, solve the problem. Then, write the code."</b>
+  <b>"First, solve the problem. Then, write the code."</b>
 </p>
 
 <p align="center">
