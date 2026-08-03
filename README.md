@@ -802,3 +802,311 @@ AWS --> SystemDesign
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
 
 </div>
+
+<!-- ========================================================= -->
+<!--            PART 3 — GITHUB ANALYTICS & INSIGHTS           -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+# 📊 GITHUB ANALYTICS
+
+### *Every commit tells a story.*
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## OVERVIEW
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=GK-Aasish&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=7B2FF7&text_color=FFFFFF"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=GK-Aasish&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00F5FF&ring=7B2FF7&fire=00FFC6&currStreakLabel=FFFFFF"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## TOP LANGUAGES
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GK-Aasish&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# CONTRIBUTION ACTIVITY
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=GK-Aasish&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F5FF&line=7B2FF7&point=00FFC6"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# GITHUB TROPHIES
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=GK-Aasish&theme=algolia&no-frame=true&margin-w=15&margin-h=15&column=4"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# PROFILE SUMMARY
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GK-Aasish&theme=github_dark"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GK-Aasish&theme=github_dark"/>
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GK-Aasish&theme=github_dark"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GK-Aasish&theme=github_dark"/>
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GK-Aasish&theme=github_dark&utcOffset=5.75"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# DEVELOPMENT METRICS
+
+</div>
+
+| Metric | Status |
+|---------|:------:|
+| Code Quality | ████████████████████ |
+| Backend Development | ████████████████████ |
+| UI Development | ██████████████████░ |
+| API Design | ██████████████████░ |
+| Database Design | █████████████████░░ |
+| Problem Solving | ███████████████████ |
+| Learning Speed | ███████████████████ |
+| Team Collaboration | █████████████████░░ |
+
+---
+
+<div align="center">
+
+# CODING DISTRIBUTION
+
+</div>
+
+```text
+Python               ██████████████████████████████ 45%
+
+Django               ████████████████████           25%
+
+React                ████████████                   12%
+
+Next.js              █████████                      8%
+
+SQL                  ██████                         5%
+
+Blender              ████                           3%
+
+Other                ██                             2%
+```
+
+---
+
+<div align="center">
+
+# CURRENT DEVELOPMENT FOCUS
+
+</div>
+
+| Area | Progress |
+|------|----------|
+| Django | ████████████████████ |
+| REST API | ██████████████████░ |
+| React | ████████████████░░░ |
+| Next.js | ███████████████░░░░ |
+| PostgreSQL | █████████████░░░░░ |
+| Docker | ██████████░░░░░░░░░ |
+| Blender | ███████████████░░░░ |
+
+---
+
+<div align="center">
+
+# CONTRIBUTION HEATMAP
+
+```text
+Mon  ███████████
+Tue  ███████████████
+Wed  ██████████████████
+Thu  ███████████████
+Fri  ███████████████████
+Sat  ████████
+Sun  ██████
+```
+
+</div>
+
+---
+
+<div align="center">
+
+# DEVELOPER DNA
+
+</div>
+
+```yaml
+Primary Language:
+  Python
+
+Favorite Framework:
+  Django
+
+Favorite Frontend:
+  React
+
+Preferred Architecture:
+  MVC
+  REST
+  Component-Based UI
+
+Development Style:
+  Clean
+  Modular
+  Scalable
+  Maintainable
+
+Mission:
+  Build software that lasts.
+```
+
+---
+
+<div align="center">
+
+# CONTRIBUTION SNAKE
+
+<img src="https://raw.githubusercontent.com/GK-Aasish/GK-Aasish/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+<details>
+
+<summary>
+
+# 🐍 Snake Animation Setup
+
+</summary>
+
+Create:
+
+```
+.github/workflows/snake.yml
+```
+
+Use this workflow:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+
+  workflow_dispatch:
+
+jobs:
+  generate:
+
+    permissions:
+      contents: write
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v4
+
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: GK-Aasish
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
+
+---
+
+<div align="center">
+
+# CYBER STATUS PANEL
+
+```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+CPU             ██████████████████
+
+Memory          ███████████████
+
+Creativity      ████████████████████
+
+Coffee          ███████████
+
+Bug Fixing      ███████████████████
+
+Documentation   ████████████████
+
+Learning        ████████████████████
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+</div>
+
+---
+
+<div align="center">
+
+> **"Code is temporary. Architecture is remembered."**
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
+
+</div>
