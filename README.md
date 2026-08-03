@@ -49,35 +49,78 @@ width="100%"/>
 </tr>
 </table>
 
-## 📂 ABOUT
+<div align="center">
 
-```yaml
-name: Aasish Karki
-location: Nepal 🇳🇵
+# 🎮 PLAYER PROFILE
 
-profession:
-  - Full Stack Developer
-  - Python Developer
-  - Blender 3D Artist
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=2500&pause=1200&color=00F5FF&center=true&vCenter=true&width=500&lines=Loading+Character...;Welcome+Back+Player!"/>
 
-currently_learning:
-  - Docker & Kubernetes
-  - PostgreSQL Optimization
-  - Advanced System Design
-  - Next.js (App Router)
+</div>
 
-currently_building:
-  - Scalable Django Applications
-  - High Performance REST APIs
-  - Interactive 3D Experiences
-
-interests:
-  - Open Source
-  - UI/UX
-  - Backend Engineering
+```text
+╔══════════════════════════════════════════════╗
+║              CHARACTER SHEET                ║
+╠══════════════════════════════════════════════╣
+║ 👤 Name        Aasish Karki                 ║
+║ 🎖 Class       Full Stack Developer         ║
+║ 🌍 Region      Nepal 🇳🇵                    ║
+║ ⭐ Level       24                           ║
+║ 💎 XP          ████████████████░░ 92%       ║
+║ ❤️ Health      ████████████████ 100%        ║
+║ ⚡ Mana        ███████████████░ 85%         ║
+╚══════════════════════════════════════════════╝
 ```
 
+### ⚔️ MAIN SKILLS
+
+| Skill | Rank |
+|------|------|
+| 🐍 Python | ⭐⭐⭐⭐⭐ |
+| 🌐 Django | ⭐⭐⭐⭐⭐ |
+| ⚛ React | ⭐⭐⭐⭐☆ |
+| ▲ Next.js | ⭐⭐⭐⭐☆ |
+| 🎨 Blender | ⭐⭐⭐⭐☆ |
+| 🗄 PostgreSQL | ⭐⭐⭐☆☆ |
+
 ---
+
+### 🎒 QUESTS
+
+🟢 Build scalable Django applications
+
+🟢 Create interactive React projects
+
+🟢 Develop REST APIs
+
+🟡 Learn Docker & Kubernetes
+
+🟡 Master System Design
+
+---
+
+### 🏆 ACHIEVEMENTS
+
+🏅 Django Developer
+
+🏅 REST API Builder
+
+🏅 Blender Artist
+
+🏅 Open Source Enthusiast
+
+🔒 AWS Certified *(Coming Soon)*
+
+🔒 Kubernetes Expert *(In Progress)*
+
+---
+
+<div align="center">
+
+### 🎖 Equipped Stack
+
+<img src="https://skillicons.dev/icons?i=python,django,react,nextjs,postgres,docker,git,github,blender"/>
+
+</div>
 
 <div align="center">
 
