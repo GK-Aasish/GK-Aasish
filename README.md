@@ -11,55 +11,8 @@
 </div>
 
 ---
-<table>
-<tr>
 
-<td width="60%" valign="top">
-
-<pre>
-██████████████████████████████████
-
-BOOTING CYBER TERMINAL...
-
-&gt; Loading Profile...
-████████████████████████ 100%
-
-&gt; Loading Skills...
-████████████████████████ 100%
-
-&gt; Connecting GitHub...
-████████████████████████ 100%
-
-&gt; Connecting Blender...
-████████████████████████ 100%
-
-&gt; Initializing Django...
-████████████████████████ 100%
-
-&gt; Starting React Engine...
-████████████████████████ 100%
-
-SYSTEM STATUS : ONLINE
-
-USER          : AASISH KARKI
-ROLE          : FULL STACK DEVELOPER
-ENGINE        : DJANGO • REACT • NEXT.JS
-3D MODULE     : BLENDER
-MISSION       : BUILDING THE FUTURE
-
-██████████████████████████████████
-</pre>
-
-</td>
-
-<td width="40%" align="center">
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%"/>
-
-</td>
-
-</tr>
-</table>
+---
 # ABOUT
 
 ```yaml
