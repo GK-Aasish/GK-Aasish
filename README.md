@@ -397,36 +397,6 @@ interests:
 
 <div align="center">
 
-## TOP LANGUAGES
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GK-Aasish&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF"/>
-
-</div>
-
----
-
-<div align="center">
-
-# CONTRIBUTION ACTIVITY
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=GK-Aasish&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F5FF&line=7B2FF7&point=00FFC6"/>
-
-</div>
-
----
-
-<div align="center">
-
-# GITHUB TROPHIES
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=GK-Aasish&theme=algolia&no-frame=true&margin-w=15&margin-h=15&column=4"/>
-
-</div>
-
----
-
-<div align="center">
-
 # PROFILE SUMMARY
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GK-Aasish&theme=github_dark"/>
