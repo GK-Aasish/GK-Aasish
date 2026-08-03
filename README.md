@@ -163,11 +163,10 @@ MISSION       : BUILDING MODERN WEB APPS
 </table>
 
 ## 📊 SYSTEM METRICS
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Aasish's Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" />
-</div>
 
+<div align="center">
+<img width="80%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+</div>
 ---
 
 <h2 align="center">🚀 FEATURED MODULES</h2>
