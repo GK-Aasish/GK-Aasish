@@ -7,23 +7,20 @@
 </div>
 
 ---
+<h2>⚡ SYSTEM INITIALIZATION</h2>
 
-<img align="right" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<table width="100%">
+<tr>
 
-# ⚡ SYSTEM INITIALIZATION
+<td width="62%" valign="top">
 
-```text
-████████████████████████████████████
+<pre>
+██████████████████████████████████████████████
 BOOTING CYBER TERMINAL...
 
 > Loading Profile...
-████████████████████████ 100%
-
-> Loading Skills...
-████████████████████████ 100%
-
-───────────────────────────────────
-
+██████████████████████ 100%
+──────────────────────────────────────────────
 SYSTEM STATUS : ONLINE
 USER          : AASISH KARKI
 ROLE          : FULL STACK DEVELOPER
@@ -32,8 +29,25 @@ STACK         : DJANGO • REACT • NEXT.JS
 STATUS        : READY
 MISSION       : BUILDING MODERN WEB APPS
 
-████████████████████████████████████
-```
+██████████████████████████████████████████████
+</pre>
+
+</td>
+
+<td width="38%" align="center" valign="top">
+
+<img
+src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
+width="100%"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=python,django,react,nextjs,postgres,docker,git"/>
+
+</td>
+
+</tr>
+</table>
 
 ## 📂 ABOUT
 
