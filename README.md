@@ -11,59 +11,55 @@
 </div>
 
 ---
+<table>
+<tr>
 
-<div align="center">
+<td width="60%" valign="top">
 
-<img src="https://komarev.com/ghpvc/?username=GK-Aasish&style=for-the-badge&color=00F5FF"/>
-
-<img src="https://img.shields.io/github/followers/GK-Aasish?style=for-the-badge&color=7B2FF7&labelColor=161B22"/>
-
-<img src="https://img.shields.io/github/stars/GK-Aasish?style=for-the-badge&color=FF4D8D&labelColor=161B22"/>
-
-<img src="https://img.shields.io/badge/Open%20Source-Lover-00FFC6?style=for-the-badge"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="850"/>
-
-</div>
-
----
-
-# SYSTEM INITIALIZATION
-
-```text
-███████████████████████████████████████████
+<pre>
+██████████████████████████████████
 
 BOOTING CYBER TERMINAL...
 
-Loading Profile...
+&gt; Loading Profile...
 ████████████████████████ 100%
 
-Loading Skills...
+&gt; Loading Skills...
 ████████████████████████ 100%
 
-Connecting GitHub...
+&gt; Connecting GitHub...
 ████████████████████████ 100%
 
-Connecting Blender...
+&gt; Connecting Blender...
 ████████████████████████ 100%
 
-Building Future...
+&gt; Initializing Django...
 ████████████████████████ 100%
 
-SYSTEM STATUS
+&gt; Starting React Engine...
+████████████████████████ 100%
 
-ONLINE
+SYSTEM STATUS : ONLINE
 
-███████████████████████████████████████████
-```
----
+USER          : AASISH KARKI
+ROLE          : FULL STACK DEVELOPER
+ENGINE        : DJANGO • REACT • NEXT.JS
+3D MODULE     : BLENDER
+MISSION       : BUILDING THE FUTURE
 
+██████████████████████████████████
+</pre>
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%"/>
+
+</td>
+
+</tr>
+</table>
 # ABOUT
 
 ```yaml
