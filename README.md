@@ -1,13 +1,18 @@
-<h1 align="center">Hi there, I'm Aasish! 👋</h1>
+<h1 align="center">Hi, I'm Aasish! 👋</h1>
+
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Full+Stack+Django+Dev+%26+3D+Artist&type=waving&fontColor=fff&animation=fadeIn&color=gradient&height=120" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=500&color=F7DF1E&center=true&vCenter=true&lines=Full+Stack+Developer;Django+&+Python+Specialist;React+&+Next.js+Explorer;Building+the+future+with+Code" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=500&color=00ff00&center=true&vCenter=true&lines=Python+&+Django+Specialist;Building+immersive+3D+worlds+in+Blender;Full-Stack+Web+Developer;React+&+Next.js+Enthusiast" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-I am a passionate **Full-Stack Developer** who loves building web applications and solving complex problems. I thrive at the intersection of robust backend architecture (Django/Python) and sleek, modern frontend experiences (React/Next.js). When I'm not coding, you'll find me modeling in **Blender** or guarding the net as a **Goalkeeper**! 🧤⚽️
+I am a **Full-Stack Developer** who bridges the gap between functional web architecture and creative 3D design. Whether I'm building complex **Django** backends or crafting assets in **Blender**, I love solving problems at the intersection of logic and art.
 
 ---
 
@@ -18,25 +23,26 @@ I am a passionate **Full-Stack Developer** who loves building web applications a
 
 ---
 
-### 📈 GitHub Stats & Streak
+### 📈 Metrics & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GK-Aasish&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GK-Aasish&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GK-Aasish&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GK-Aasish&theme=radical&hide_border=true" width="48%" />
 </p>
 
 ---
 
-### 🐍 The Snake
-*Watch the snake eat my contributions!*
+### 🐍 Contribution Path
+*Watch my progress:*
 <p align="center">
   <img src="https://github.com/GK-Aasish/GK-Aasish/blob/output/github-contribution-grid-snake.svg" alt="contribution-snake" />
 </p>
 
 ---
 
-### 📫 Reach Me
+### 📫 Let's Connect
 - 🌐 **Portfolio:** [aasishkarki.com.np](https://aasishkarki.com.np)
 - 📧 **Email:** [gk.aasishkarki@gmail.com](mailto:gk.aasishkarki@gmail.com)
+- ⚽️ **Fun Fact:** I play football as a Goalkeeper—where focus and quick reaction time are everything.
 
 <p align="center">
   <i>“Code is like humor. When you have to explain it, it’s bad.”</i>
