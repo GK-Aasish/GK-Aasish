@@ -12,7 +12,7 @@
 
 <table width="100%">
 <tr>
-<td width="60%" valign="top">
+<td width="50%" valign="top">
 
 <pre>
 ██████████████████████████████████████████████
@@ -31,7 +31,7 @@ MISSION       : BUILDING MODERN WEB APPS
 ██████████████████████████████████████████████
 </pre>
 </td>
-<td width="40%" align="center" valign="top">
+<td width="50%" align="center" valign="top">
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%"/>
 <br>
 <img src="https://skillicons.dev/icons?i=python,django,react,nextjs,postgres,docker,git,tailwind,js,ts"/>
