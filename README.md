@@ -80,7 +80,7 @@ MISSION       : BUILDING MODERN WEB APPS
 </td>
 <td>
 <img
-src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=0&repeat=true&color=00F5FF&width=440&lines=██████████████████+95%25">
+src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=0&repeat=true&color=00F5FF&width=440&lines=███████████+50%">
 </td>
 </tr>
 
@@ -90,7 +90,7 @@ src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=250
 </td>
 <td>
 <img
-src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=0&repeat=true&color=00F5FF&width=440&lines=█████████████████+92%25">
+src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=0&repeat=true&color=00F5FF&width=440&lines=██████████████+60%">
 </td>
 </tr>
 
@@ -100,7 +100,7 @@ src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=250
 </td>
 <td>
 <img
-src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=0&repeat=true&color=00F5FF&width=440&lines=████████████████+85%25">
+src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=0&repeat=true&color=00F5FF&width=440&lines=██████+25%">
 </td>
 </tr>
 
@@ -110,7 +110,7 @@ src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=250
 </td>
 <td>
 <img
-src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=0&repeat=true&color=00F5FF&width=440&lines=███████████████+80%25">
+src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=0&repeat=true&color=00F5FF&width=440&lines=████████+45%">
 </td>
 </tr>
 
@@ -120,7 +120,7 @@ src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=250
 </td>
 <td>
 <img
-src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=0&repeat=true&color=00F5FF&width=440&lines=█████████████████+90%25">
+src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=0&repeat=true&color=00F5FF&width=440&lines=█████████████+60%">
 </td>
 </tr>
 
@@ -142,7 +142,7 @@ src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=250
 </td>
 <td>
 <img
-src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=0&repeat=true&color=A855F7&width=440&lines=█████████████████+90%25">
+src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=0&repeat=true&color=A855F7&width=440&lines=████████+32%">
 </td>
 </tr>
 
@@ -152,17 +152,7 @@ src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=250
 </td>
 <td>
 <img
-src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=0&repeat=true&color=A855F7&width=440&lines=███████████████+82%25">
-</td>
-</tr>
-
-<tr>
-<td width="60" align="center">
-<img src="https://skillicons.dev/icons?i=ps&theme=dark" width="40">
-</td>
-<td>
-<img
-src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=0&repeat=true&color=A855F7&width=440&lines=███████████████+80%25">
+src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=0&repeat=true&color=A855F7&width=440&lines=███████████████+65%">
 </td>
 </tr>
 
