@@ -164,7 +164,6 @@ src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=250
 
 <a id="stats"></a>
 ## 📊 SYSTEM METRICS
-# Test
 
 ![Streak](https://streak-stats.demolab.com?user=GK-Aasish&theme=tokyonight&hide_border=true)
 ---
