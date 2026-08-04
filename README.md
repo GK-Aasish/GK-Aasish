@@ -166,7 +166,9 @@ src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=250
 ## 📊 SYSTEM METRICS
 
 <div align="center">
-<img width="80%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=GK-Aasish&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 ---
