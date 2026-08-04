@@ -166,10 +166,7 @@ src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=250
 ## 📊 SYSTEM METRICS
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=GK-Aasish&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak Stats"
-  />
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="120">
 </p>
 ---
 
